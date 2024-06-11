@@ -1,0 +1,25 @@
+_repo: Runoja_73743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schrowe, Uno von
+    gutenberg_agent_id: '37346'
+    url: http://www.gutenberg.org/2009/agents/37346
+description: ''
+gutenberg_issued: '2024-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73743'
+language: fi
+pgterms:marc905: 20240430080456schrowe
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Runoja
+url: http://www.gutenberg.org/ebooks/73743
