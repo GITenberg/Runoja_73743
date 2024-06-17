@@ -1,11 +1,16 @@
 _repo: Runoja_73743
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schrowe, Uno von
     gutenberg_agent_id: '37346'
     url: http://www.gutenberg.org/2009/agents/37346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73743#Runoja
 gutenberg_issued: '2024-06-05'
 gutenberg_type: Text
 identifiers:
